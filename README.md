@@ -23,3 +23,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
+<div align="center">
+
+  ![snake gif](https://github.com/D3nnisAIG/D3nnisAIG/blob/output/github-snake-dark.svg)
+
+</div>
