@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3nnisaig&label=Profile%20views&color=0e75b6&style=flat" alt="d3nnisaig" /> </p>
 
-- 🔭 I’m currently working on **Offense & Defense Enterprise Homelab.**
+- 🔭 I’m currently working on **Nixwud Enterprise Homelab [Offense & Defense].**
 
 - 🌱 I’m currently learning **learning hands-on SOC analyst skills on Let's Defend -Investigating security alerts and incidents. -Analyzing logs and network traffic. -Using SIEM tools for threat detection. -Handling phishing emails and malware analysis. -Conducting digital forensics and incident response.**
 
