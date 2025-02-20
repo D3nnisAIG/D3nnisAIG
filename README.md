@@ -2,7 +2,7 @@
 <h3 align="center">A passionate SOC Analyst</h3>
 
 
-- 🔭 I’m currently working on **Nixwud Enterprise Homelab [Offense & Defense].**
+- 🔭 I’m currently working on Projects using Virtual box 
 
 - 🌱 I’m currently learning **hands-on SOC analyst skills on Let's Defend -Investigating security alerts and incidents. -Analyzing logs and network traffic. -Using SIEM tools for threat detection. -Handling phishing emails and malware analysis. -Conducting digital forensics and incident response.**
 
