@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dennis Igbong</h1>
-<h3 align="center">A passionate SOC Analyst</h3>
+<h3 align="center">A Business Analyst with a passion for cybersecurity </h3>
 
 
 - 🔭 I’m currently working on Projects using Virtual box 
